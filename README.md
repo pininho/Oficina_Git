@@ -5,3 +5,4 @@ Minicurso PETCC, oficina git.
 
 Comandos:
 git init - Cria repositório
+git push - Empurra o repositório local para o remoto
